@@ -1,0 +1,3 @@
+[submodule "pygame-dev/prjFiles/5games"]
+	path = pygame-dev/prjFiles/5games
+	url = https://github.com/clear-code-projects/5games
